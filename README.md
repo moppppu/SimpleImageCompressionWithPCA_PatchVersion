@@ -1,3 +1,5 @@
-# Simple image compression with PCA in MATLAB
-# Results
+# Simple image compression with PCA in MATLAB (Patch Version)
+# Results (principal components from image patches)
+![image](./PCfromImagePatches.png)
+# Results (compressed images)
 ![image](./output.png)
